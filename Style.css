@@ -1,0 +1,16 @@
+#btn_book_now {
+    border: 1px solid white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+}
+#btn_book_now:hover{
+    border: 1px solid rgba(255, 255, 255, 0.683);
+    color: rgba(255, 255, 255, 0.754);
+}
+
+@media (max-width:768){
+   #header_link_1 ul {
+    display: none;
+   }
+}
